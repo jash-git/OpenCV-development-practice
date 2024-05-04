@@ -5,7 +5,7 @@ Gemini:OpenCV 双目摄像头标定 & OpenCV 双目 测距
 https://blog.csdn.net/luohenyj/category_9285940_2.html
 https://github.com/luohenyueji/OpenCV-Practical-Exercise?tab=readme-ov-file
 https://github.com/luohenyueji/OpenCV-ML-Model
-https://github.com/MIKUMIO/OpenCV-Stereo-Measure
+https://github.com/MIKUMIO/OpenCV-Stereo-Measure (查: opencv 双目 测距)[完整 CPP opencv 双目(雙CCD) 测距(測距) 額外範例]
 
 
 1age_gender
