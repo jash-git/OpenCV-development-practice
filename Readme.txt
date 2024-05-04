@@ -58,7 +58,7 @@ Model
 14使用OpenCV實現單目標跟蹤
 -
 15GOTURN_SingleTracker
-15基於深度學習的目標跟蹤演算法GOTURN
+15基於深度學習的目標跟蹤演算法GOTURN [目標追蹤]
 Model
 
 16OpenCV_MultiTracker
@@ -66,20 +66,20 @@ Model
 Video
 
 17OpenCV_Colorization
-17基於卷積神經網路的OpenCV圖像著色
+17基於卷積神經網路的OpenCV圖像著色 (影像/圖片/照片上色) [CNN]
 Model
 
 18OpenCV_Homography
-18Opencv中的單應性矩陣Homography
+18Opencv中的單應性矩陣Homography [例如虛擬廣告牌，把下圖1替換下圖2的廣告]
 -
 19OpenCV_Align
-19使用OpenCV實現基於特徵的圖像對齊
+19使用OpenCV實現基於特徵的圖像對齊 [特徵點比對]
 -
 20OpenCV_ECCAlignment
 20使用OpenCV實現基於增強相關係數最大化的圖像對齊
 -
 21OpenCV_EigenFace
-21使用OpenCV的Eigenface
+21使用OpenCV的Eigenface [PCA 降維運算]
 Image
 
 22reconstructFace
@@ -95,7 +95,7 @@ Image
 Image
 
 25OpenCV_SeamlessCloning
-25使用OpenCV進行泊松克隆
+25使用OpenCV進行泊松克隆 [圖像 合併/疊加/嵌入/合併]
 -
 26OpenCV_SelectiveSearch
 26基於OpenCV實現選擇性搜索演算法
@@ -119,7 +119,7 @@ Image
 32使用OpenCV進行非真實感渲染
 -
 33OpenCV_HoughTransform
-33使用OpenCV進行Hough變換
+33使用OpenCV進行Hough變換 [霍夫曼運算 直線 圓形 偵測]
 -
 34OpenCV_Inpainting
 34使用OpenCV進行圖像修復
@@ -135,7 +135,7 @@ Video
 37圖像品質評價BRISQUE
 -
 38OpenCV_CameraCalibration
-38基於OpenCV的相機標定
+38基於OpenCV的相機標定 [內部參數/相機校正]
 -
 39OpenCV_ArUco
 39在OpenCV中使用ArUco標記的增強現實
@@ -154,14 +154,14 @@ Video
 Video
 
 44OpenCV_ImageSuperres
-44使用OpenCV進行圖像超分放大
+44使用OpenCV進行圖像超分放大 [圖片放大]
 Model
 
 45OpenCV_ImgHash
 45基於OpenCV實現圖像雜湊演算法
 -
 46OpenCV_IntensityTransform
-46在OpenCV下應用圖像強度變換實現圖像對比度均衡
+46在OpenCV下應用圖像強度變換實現圖像對比度均衡 [模糊 便 清晰]
 -
 47OpenCV_SaliencyObject
 47基於OpenCV實現視覺顯著性檢測
@@ -171,10 +171,10 @@ Video
 48基於OpenCV實現圖像品質評價
 -
 49OpenCV_StereoDisparity
-49對極幾何與立體視覺初探
+49對極幾何與立體視覺初探 [測距]
 -
 50OpenCV_StereoCamera
-50用OpenCV製作低成本立體相機
+50用OpenCV製作低成本立體相機 [測距]
 Data
 
 51OpenCV_Polar
